@@ -1,6 +1,6 @@
 # USD Lab Work
 
-This repository contains all my **USD (Universal Software Development) Lab assignments** completed as part of my academic coursework.
+This repository contains all my **USD (Universal Software Development) Lab assignments** completed as part of coursework.
 
 ## 📌 Contents
 - Lab programs and exercises
@@ -20,4 +20,5 @@ Each folder represents a **lab session or experiment**, making it easy to naviga
 1. Clone the repository:
    ```bash
    git clone https://github.com/joitapaul/USD-Lab-Work.git
+
 
